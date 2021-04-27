@@ -1,0 +1,98 @@
+.pearly_Logo {
+    float: left;
+    width:  25%;
+    height: 25%;
+		margin-top: 15px;
+		margin-left: 35px;
+}
+
+.text {
+	font-size: 24px;
+	color: white;
+	font-family: jaf-lapture-display, serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: left;
+	margin-left: 30px;
+  margin-right: 2px;
+}
+
+.copyright {
+  text-align: center;
+  margin-left: 30px;
+	font-size: 9px;
+  line-height: 16px;
+	color: white;
+  font-family: libre-franklin, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.a_main {
+  color: white;
+	font-size: 24px;
+	color: white;
+  text-decoration: none;
+  text-decoration: none;
+  border-bottom: #231F20 4px solid;
+	font-family: jaf-lapture-display, serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: left;
+	margin-left: 30px;
+  margin-right: 2px;
+  width: 10em;
+}
+
+.a {
+  color: white;
+	font-size: 10px;
+	color: white;
+  text-decoration: none;
+  text-decoration: none;
+  border-bottom: #231F20 4px solid;
+  font-family: neue-kabel, sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  letter-spacing: 4px;
+	text-align: left;
+	margin-left: 30px;
+  margin-right: 2px;
+  width: 10em;
+}
+
+input[type=text], select, textarea{
+  margin-top: 40px;
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 92%;
+  padding: 10px;
+  font-size: 18px;
+	color: white;
+	font-family: jaf-lapture-display, serif;
+	font-weight: 400;
+  border: 2px solid white;
+  background-color: transparent;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 92%;
+  border: 2px solid white;
+  background-color: transparent;
+  font-size: 18px;
+	color: white;
+	font-family: jaf-lapture-display, serif;
+	font-weight: 400;
+  border: 2px solid white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover
+{
+  background-color: white;
+  color: black;
+}
